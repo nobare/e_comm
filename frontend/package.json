@@ -11,10 +11,11 @@
   },
   "dependencies": {
     "@vue/test-utils": "^2.3.2",
+    "@vue/typescript": "^1.8.19",
     "axios": "^1.4.0",
     "happy-dom": "^9.18.3",
     "vitest": "^0.31.0",
-    "vue": "^3.2.47"
+    "vue": "^3.3.4"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",
